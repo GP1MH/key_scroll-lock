@@ -40,6 +40,14 @@ sudo pacman -S xbindkeys
 ```
 
 
+2. إنشاء ملف إعدادات `xbindkeys` (إذا لم يكن موجودًا):
+```bash
+xbindkeys --defaults > ~/.xbindkeysrc
+```
+3. تعديل ملف الإعدادات:
+```bash
+nano ~/.xbindkeysrc
+```
 
 
 
