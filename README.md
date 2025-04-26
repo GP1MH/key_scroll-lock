@@ -26,6 +26,11 @@
 
 - نزل `toggle_scroll_lock.sh` وانسخ الى مسار **Home** 
 
+`لازم من امر هادا لي اعطاء صلاحيات لي السكربت `
+
+# chmod +x ~/toggle_scroll_lock.sh
+
+
 
 
 
