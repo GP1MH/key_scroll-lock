@@ -49,6 +49,16 @@ xbindkeys --defaults > ~/.xbindkeysrc
 nano ~/.xbindkeysrc
 ```
 
+4.أضف في آخر الملف السطرين التاليين لتعريف مفتاح معين لتشغيل السكربت.
+
+مثلا لربطه مع زر `Scroll_Lock` نفسه:
+
+```bash
+# تبديل ضوء Scroll Lock
+"~/toggle_scroll_lock.sh"
+  Scroll_Lock
+
+```
 
 
 
