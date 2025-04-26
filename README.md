@@ -32,7 +32,7 @@
 chmod +x ~/toggle_scroll_lock.sh
 ```
 
-
+- ربط السكربت مع `xbindkeys`
 
 
 
