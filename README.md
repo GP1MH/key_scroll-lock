@@ -28,7 +28,10 @@
 
 `لازم من امر هادا لي اعطاء صلاحيات لي السكربت `
 
-# chmod +x ~/toggle_scroll_lock.sh
+```bash
+chmod +x ~/toggle_scroll_lock.sh
+```
+
 
 
 
