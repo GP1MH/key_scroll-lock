@@ -59,10 +59,19 @@ nano ~/.xbindkeysrc
   Scroll_Lock
 
 ```
+لي الحفظ  `Ctrl + o` و الخروج `Ctrl + x`
 
+5.حفظ الملف والخروج.
 
+- تشغيل `xbindkeys`
 
+1. ابدأ `xbindkeys`  الآن:
 
+2. ولتشغيله تلقائيًا عند بداية النظام، أضف `xbindkeys` إلى التطبيقات التي تبدأ مع الجلسة `(Startup Applications)،` أو في ملف `~/.xprofile` .
+
+```bash
+echo "xbindkeys &" >> ~/.xprofile
+```
 
 
 
