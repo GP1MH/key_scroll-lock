@@ -34,6 +34,10 @@ chmod +x ~/toggle_scroll_lock.sh
 
 - ربط السكربت مع `xbindkeys`
 
+1. تأكد أن عندك `xbindkeys` مثبت:
+```bash
+sudo pacman -S xbindkeys
+```
 
 
 
